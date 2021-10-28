@@ -2,6 +2,7 @@
 This is my first iOS app. It is just a basic calculator.  
 
 ## Screenshot
-<img width="371" alt="Screenshot 2021-07-25 at 20 08 35" src="https://user-images.githubusercontent.com/76846542/126903063-65dba1b1-1c70-4919-95ef-7aee45ee2d03.png">
+<img width="371" alt="Screenshot 2021-10-28 at 13 25 30" src="https://user-images.githubusercontent.com/76846542/139211935-671e5180-6e5c-49dc-960b-74535f9d3c83.png">
 
-Running in iOS 14.5 on iPhone 12 Pro Max
+
+Running in iOS 15 on iPhone 13 Pro Max
